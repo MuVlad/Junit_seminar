@@ -1,4 +1,4 @@
-package tasks;
+package seminar1.tasks;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

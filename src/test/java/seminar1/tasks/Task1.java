@@ -1,4 +1,4 @@
-package tasks;
+package seminar1.tasks;
 
 /***
  * Задание: Используйте ключевое слово assert для проверки

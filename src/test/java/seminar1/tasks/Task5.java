@@ -1,4 +1,4 @@
-package tasks;
+package seminar1.tasks;
 
 import static java.lang.Long.sum;
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;

@@ -1,3 +1,5 @@
+package seminar1;
+
 public class AssertExample {
     public static void main(String[] args) {
         int x = 10;

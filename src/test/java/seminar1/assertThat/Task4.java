@@ -1,4 +1,4 @@
-package assertThat;
+package seminar1.assertThat;
 
 import static org.assertj.core.api.Assertions.assertThatThrownBy;
 
